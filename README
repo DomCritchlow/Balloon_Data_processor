@@ -11,3 +11,6 @@ python gpsdecode.py GPSDATA.TXT WORK.CSV
 GPSDATA.TXT is a csv file with the first column being a random number for matching, and the from there on out GPGGA GPS string. 
 
 WORK.CSV is a csv file we use to store data from our other sensors. temperature and so on.
+
+
+![Alt text](screenshot.png?raw=true "Screenshot of HTML Map")
