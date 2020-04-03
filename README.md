@@ -13,5 +13,4 @@ GPSDATA.TXT is a csv file with the first column being a random number for matchi
 WORK.CSV is a csv file we use to store data from our other sensors. temperature and so on.
 
 
-![Screenshot image]
-(Screenshot.png)
+![Screenshot image] (Screenshot.png)
